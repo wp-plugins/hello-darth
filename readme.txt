@@ -4,8 +4,8 @@ Tags: hello, admin area, humor, darth vader, star wars, anakin skywalker, fun
 Author URI: http://www.adammclane.com
 Plugin URL: http://www.mclanecreative.com/plugins/
 Requires at least: 2.0.2
-Tested up to: 3.4.1
-Stable tag: 0.1
+Tested up to: 4.2.2
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ This little plugin is in homage to my geek friends who love to hate Lord Vader.
 
 == Description ==
 
-This little plugin is in homage to my geek friends who love to hate Lord Vader. When activated you will randomly see a quote from <cite>Darth Vader's IMDB page in the upper right of your admin screen on every page. HT to Matt Mullenberg for the original code.
+This little plugin is in homage to my geek friends who love to hate Lord Vader. When activated you will randomly see a quote from <cite>Darth Vader's IMDB page</cite> in the upper right of your admin screen on every page. HT to Matt Mullenberg for the original code.
 
 == Installation ==
 
@@ -36,12 +36,11 @@ Yes, the quotes are wrapped in the tag, #darth. I'd suggest changing the CSS in 
 
 = Can I suggest more quotes? =
 
-Sure, add your comments/suggestions about this plugin here:
-https://mclanecreative.zendesk.com/entries/21879457-hello-darth-support
+Sure. Direct any suggestions, problems, or smart remarks to @mclanecreative on Twitter
 
 = Can I suggest a new feature? =
 Sure, add your comments/suggestions about this plugin here:
-https://mclanecreative.zendesk.com/entries/21879457-hello-darth-support
+https://wordpress.org/support/plugin/hello-darth
 
 
 == Changelog ==
@@ -50,6 +49,10 @@ https://mclanecreative.zendesk.com/entries/21879457-hello-darth-support
 
 * Just getting started.
 * Added about 50 quotes.
+
+== 0.2 = 
+* Confirmed capability up to 4.2.2
+* Added even more quotes
 
 
 == Upgrade Notice ==
