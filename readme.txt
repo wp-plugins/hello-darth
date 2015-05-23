@@ -50,7 +50,8 @@ https://wordpress.org/support/plugin/hello-darth
 * Just getting started.
 * Added about 50 quotes.
 
-== 0.2 = 
+= 0.2 =
+ 
 * Confirmed capability up to 4.2.2
 * Added even more quotes
 
